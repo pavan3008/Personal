@@ -2,7 +2,7 @@
   "name": "portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://pavanvirat.live/",
+  "homepage": "https://pavanvirat.live/Portfolio/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-brands-svg-icons": "^5.9.0",
@@ -42,7 +42,7 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pavan3008/pavan3008.github.io.git"
+    "url": "git+https://github.com/pavan3008/Portfolio.git"
   },
   "author": "Pavan"
 }
