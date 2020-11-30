@@ -1,0 +1,102 @@
+{
+    "landing": {
+        "firstName": "Pavan Sai",
+        "lastName": "Nallagoni",
+        "phoneNumber": "+91 88970503**",
+        "bio": "Computer Science Student",
+        "email": "pavansai3008@gmail.com",
+        "linkedin": "http://linkedin.com/in/pavan-n-a100681a9",
+        "github": "https://github.com/pavan3008"
+    },
+    "experience": [
+        {
+            "position": "",
+            "organization": "",
+            "aboutWork": "",
+            "fromDate": "",
+            "toDate": ""
+        }
+    ],
+    "education": [
+        {
+            "university": "CVR College of Engineering, Hyderbad",
+            "degree": "Bachelor of Technology",
+            "gpa": "CGPA : 9.3",
+            "fromDate": "August 2017",
+            "toDate": "Present"
+        },
+        {
+            "university": "Sri Gayatri Junior College",
+            "degree": "XII",
+            "gpa": "Percentage : 98.5%",
+            "fromDate": "June 2015",
+            "toDate": "April 2017"
+        },
+        {
+            "university": "Bhashyam High School",
+            "degree": "X",
+            "gpa": "CGPA : 10",
+            "fromDate": "June 2014",
+            "toDate": "May 2015"
+        }
+    ],
+    "skills": [
+        {
+            "name": "C"
+        },
+        {
+            "name": "Java"
+        },
+        {
+            "name": "Python"
+        },
+        {
+            "name": "C#"
+        },
+        {
+            "name": "HTML5"
+        },
+        {
+            "name": "CSS3"
+        },
+        {
+            "name": "Javascript"
+        },
+        {
+            "name": "React"
+        },
+        {
+            "name": "Nodejs"
+        },
+        {
+            "name": "PHP"
+        },
+        {
+            "name": "Django"
+        },
+        {
+            "name": "SQL"
+        }
+    ],
+    "interests": {
+        "paragraphOne": "Artificial Intelligence",
+        "paragraphTwo": "Software Engineering",
+        "paragraphThree": "Security/Privacy",
+        "paragraphFour": " Travel",
+        "paragraphFive": " Sports"
+    },
+    "awards": [
+        {
+            "awardDetail": "National Merit Scholarship"
+        },
+        {
+            "awardDetail": "Taek Wando Interschool championship"
+        },
+        {
+            "awardDetail": "Microsft Virtual Internship"
+        },
+        {
+            "awardDetail": "Front End UI WebFramework (with Honors)"
+        }
+    ]
+}
