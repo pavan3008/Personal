@@ -7,23 +7,31 @@
         "email": "pavansai3008@gmail.com",
         "linkedin": "http://linkedin.com/in/pavan-n-a100681a9",
         "github": "https://github.com/pavan3008"
+        "resume": "https://pavan3008.github.io/resume/"
     },
     "experience": [
         {
-            "position": "",
-            "organization": "",
-            "aboutWork": "",
-            "fromDate": "",
-            "toDate": ""
+            "position": "Graduate Teaching Assistant",
+            "organization": "Oregon State University",
+            "aboutWork": "CS290 Web Development",
+            "fromDate": "September 2021",
+            "toDate": "Present"
         }
     ],
     "education": [
         {
+            "university": "Oregon State University",
+            "degree": "Master of Science in Computer Science",
+            "gpa": "CGPA : 3.85",
+            "fromDate": "September 2021",
+            "toDate": "Present"
+        }
+        {
             "university": "CVR College of Engineering, Hyderbad",
             "degree": "Bachelor of Technology",
-            "gpa": "CGPA : 9.3",
+            "gpa": "CGPA : 3.9",
             "fromDate": "August 2017",
-            "toDate": "Present"
+            "toDate": "July 2021"
         },
         {
             "university": "Sri Gayatri Junior College",
@@ -76,6 +84,9 @@
         },
         {
             "name": "SQL"
+        }
+        {
+            "name": "R"
         }
     ],
     "interests": {
