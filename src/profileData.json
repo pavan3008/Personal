@@ -2,36 +2,47 @@
     "landing": {
         "firstName": "Pavan Sai",
         "lastName": "Nallagoni",
-        "phoneNumber": "+91 88970503**",
-        "bio": "Computer Science Student",
+        "phoneNumber": "",
+        "bio": "About me: \n🎓 I’m a Master of Science in Computer Science Student and a Graduate Teaching assistant at Oregon State University.\n🌱 I’m currently working on Software Engineering and Human-Computer Interaction projects, and I’m also open to collaborate on other projects related to Data/Visual Analytics and Multi-platform/Native applications. ",
         "email": "pavansai3008@gmail.com",
-        "linkedin": "http://linkedin.com/in/pavan-n-a100681a9",
-        "github": "https://github.com/pavan3008"
+        "linkedin": "http://linkedin.com/in/pavan-n",
+        "github": "https://github.com/pavan3008",
         "resume": "https://pavan3008.github.io/resume/"
     },
     "experience": [
         {
             "position": "Graduate Teaching Assistant",
             "organization": "Oregon State University",
-            "aboutWork": "CS290 Web Development",
+            "aboutWork": "CS 464 Open-Source Software Development \n o Mentored students by providing a theoretical foundation of history, key concepts, technologies, and practices associated with modern Free and Open-Source Software (FOSS) projects like GenderMag, freeCodeCamp, Sportsipy, react-native. \n o Assessed coursework, assignments, and held dozubt clarification sessions for students. \n \nCS 290 Web Development. \n o Guided students in developing modern web applications using technologies such as Java Script, React, NodeJS, ExpressJS and MongoDB, and evaluating architectural strategies with particular emphasis on Scalability, Usability, and Security.",
             "fromDate": "September 2021",
             "toDate": "Present"
+        },
+        {
+            "position": "Artificial Intelligence Intern",
+            "organization": "XVigil, CloudSEK ",
+            "aboutWork": " o Identified malicious threats & resolved Security Issues of given problem statement using behavioral patterns through AI.\n o Accomplished requirements to be recognized as XVigil Professional, a SaaS based digital risk monitoring platform.",
+            "fromDate": "June 2020",
+            "toDate": "August 2020"
         }
+
+        
     ],
     "education": [
         {
             "university": "Oregon State University",
             "degree": "Master of Science in Computer Science",
-            "gpa": "CGPA : 3.85",
+            "gpa": "CGPA : 3.96",
             "fromDate": "September 2021",
-            "toDate": "Present"
-        }
+            "toDate": "Present",
+            "coursework": "Coursework: Software Engineering Methods, Human-Computer Interaction, DBMS, Computer Graphics"
+        },
         {
             "university": "CVR College of Engineering, Hyderbad",
             "degree": "Bachelor of Technology",
             "gpa": "CGPA : 3.9",
             "fromDate": "August 2017",
-            "toDate": "July 2021"
+            "toDate": "July 2021",
+            "coursework": "Coursework: Software Engineering, Design and Analysis of Algorithms, Machine Learning, Big Data."
         },
         {
             "university": "Sri Gayatri Junior College",
@@ -48,66 +59,160 @@
             "toDate": "May 2015"
         }
     ],
-    "skills": [
+
+    "projects": [
         {
-            "name": "C"
+            "name": "LEA & Judiciary Interactive Case Management System",
+            "details": "o Designed an interactive web application to allow authorized users to log in, file cases, and host meetings efficiently using ExpressJS and MongoDB.\no Developed a video conferencing platform for enlisted applicants with WebRTC.",
+            "links": "https://github.com/pavan3008/LEA"
         },
         {
-            "name": "Java"
+            "name": "Between Subject Lab Study - Figma Vs Framer",
+            "details": "o Conducted a lab study on 30 users and compared effectiveness, efficiency, and usability of designing prototypes.\no Achieved significant results by performing statistical analysis on acquired data from participants.",
+            "links": "https://pavan3008.github.io/FigmaVsFramer/" 
         },
         {
-            "name": "Python"
+            "name": "Offline Hand-Written Text Image Recognition using Deep Learning",
+            "details": "o Implemented CNN Algorithm to classify and recognize hand-written text images.\no Built User Interface using Flask to allow users to upload hand-written text images.",
+            "links": ""
         },
         {
-            "name": "C#"
-        },
-        {
-            "name": "HTML5"
-        },
-        {
-            "name": "CSS3"
-        },
-        {
-            "name": "Javascript"
-        },
-        {
-            "name": "React"
-        },
-        {
-            "name": "Nodejs"
-        },
-        {
-            "name": "PHP"
-        },
-        {
-            "name": "Django"
-        },
-        {
-            "name": "SQL"
-        }
-        {
-            "name": "R"
+            "name": "React-Native Multiplatform Application",
+            "details": "o Curated geographical and travel information using React-Native and published into Expo CLI.",
+            "links": "https://github.com/pavan3008/Smile"
         }
     ],
-    "interests": {
-        "paragraphOne": "Artificial Intelligence",
-        "paragraphTwo": "Software Engineering",
-        "paragraphThree": "Security/Privacy",
-        "paragraphFour": " Travel",
-        "paragraphFive": " Sports"
-    },
+        
+    "skills": [
+        {
+            "name": "Python",
+            "tools": "Git",
+            "frameworks": "React"
+        },
+        {
+            "name": "Java",
+            "tools": "AWS",
+            "frameworks": "NodeJS"
+        },
+        {
+            "name": "JavaScript",
+            "tools": "MySQL",
+            "frameworks": "VueJS"
+        },
+        {
+            "name": "C/C++",
+            "tools": "Docker",
+            "frameworks": "SwiftUI"
+        },
+        {
+            "name": "HTML5",
+            "tools": "Swagger",
+            "frameworks": "OpenGL"
+        },
+        {
+            "name": "CSS3",
+            "tools": "Jira",
+            "frameworks": "GLSL"
+        },
+        {
+            "name": "Swift",
+            "tools": "Figma",
+            "frameworks": "TensorFlow"
+        },
+        {
+            "name": "C#",
+            "tools": "Framer",
+            "frameworks": "OpenCV"
+        },
+        {
+            "name": "PHP",
+            "tools": "Visual Studio",
+            "frameworks": "Hadoop"
+        },
+        {
+            "name": "R",
+            "tools": "XCode",
+            "frameworks": "NumPy"
+        }
+    ],
+
+    "frame":[
+        {
+           
+        },
+        {
+            
+        },
+        {
+            
+        },
+        {
+            
+        },
+        {
+            
+        },
+        {
+            
+        },
+        {
+            
+        },
+        {
+           
+        },
+        {
+            
+        },
+        {
+           
+        }
+    ],
+    "interests": [
+        {
+            "paragraph": "Software Engineering"
+        },
+        {
+            "paragraph": "Human Computer Interaction"
+        },
+        {
+            "paragraph": "Artificial Intelligence"
+        },
+        {
+            "paragraph": "Security/Privacy"
+        },
+        {
+            "paragraph": "Data Analytics"
+        }
+    ],
     "awards": [
+        
+        {
+            "awardDetail": "Microsft Virtual Internship",
+            "awardLink": "https://insidesherpa.s3.amazonaws.com/completion-certificates/Microsoft/ms2CK9b2SCWGXwPMS_Microsoft_BjGFvLPybqKkSD4CN_completion_certificate.pdf"
+        },
+        {
+            "awardDetail": "Front End UI WebFramework (with Honors)",
+            "awardLink":"https://www.coursera.org/account/accomplishments/certificate/BYNV6SGTVQG7"
+        },
+        {
+            "awardDetail":"Group 1.Social / Behavioral Research Investigators and Key Personnel",
+            "awardLink":"https://www.citiprogram.org/verify/?w32c45283-61ab-4528-93f7-2ac93ef76862-45391655"
+        },
+        {
+            "awardDetail":"Python Data Structures",
+            "awardLink": "https://www.coursera.org/account/accomplishments/certificate/L4NBGAQZFYCP"
+        },
+        {
+            "awardDetail":"Cloud Computing Basics (Cloud 101)",
+            "awardLink":"https://www.coursera.org/account/accomplishments/verify/44F2L8DBMPTB?utm_source=link&utm_campaign=copybutton_certificate"
+        },
         {
             "awardDetail": "National Merit Scholarship"
         },
+        
         {
             "awardDetail": "Taek Wando Interschool championship"
-        },
-        {
-            "awardDetail": "Microsft Virtual Internship"
-        },
-        {
-            "awardDetail": "Front End UI WebFramework (with Honors)"
         }
     ]
 }

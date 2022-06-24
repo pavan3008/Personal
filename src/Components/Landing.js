@@ -15,10 +15,10 @@ class Landing extends Component {
           <h1 className="mb-0">{this.landingData.firstName} &nbsp;
             <span className="text-primary">{this.landingData.lastName}</span>
           </h1>
-          <div className="subheading mb-5">{this.landingData.phoneNumber}
-            <br></br><a href="mailto:name@email.com">{this.landingData.email}</a>
+          <div >{this.landingData.phoneNumber}
+            <a href="mailto:name@email.com">{this.landingData.email}</a>
           </div>
-          <p className="lead mb-5">{this.landingData.bio}</p>
+          <br></br>
           <div className="social-icons">
             <a href={this.landingData.linkedin}>
               <FontAwesomeIcon icon={faLinkedin} />
@@ -27,6 +27,8 @@ class Landing extends Component {
               <FontAwesomeIcon icon={faGithub} />
             </a>
           </div>
+          <br></br>
+          <p className="msg-wrapper">{this.landingData.bio}</p>
         </div>
       </section>
     );

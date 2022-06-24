@@ -3,6 +3,7 @@ import Sidebar from './Components/Sidebar';
 import Landing from './Components/Landing';
 import Experience from './Components/Experience';
 import Education from './Components/Education';
+import Projects from './Components/Projects';
 import Skills from './Components/Skills';
 import Interests from './Components/Interests';
 import Awards from './Components/Awards';
@@ -17,7 +18,9 @@ class App extends Component {
       landingData: profileData.landing,
       experience: profileData.experience,
       education: profileData.education,
+      projects: profileData.projects,
       skills: profileData.skills,
+      dev: profileData.dev,
       interests: profileData.interests,
       awards: profileData.awards
     };
@@ -35,6 +38,8 @@ class App extends Component {
           <Experience experience={this.state.experience} />
           <hr className="m-0" />
           <Education education={this.state.education} />
+          <hr className="m-0" />
+          <Projects projects={this.state.projects} />
           <hr className="m-0" />
           <Skills skills={this.state.skills} />
           <hr className="m-0" />

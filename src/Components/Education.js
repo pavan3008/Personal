@@ -19,6 +19,7 @@ class Education extends Component {
                   <h3 className="mb-0">{data.university}</h3>
                   <div className="subheading mb-3">{data.degree}</div>
                   <p>{data.gpa}</p>
+                  <p>{data.coursework}</p>
                 </div>
                 <div className="resume-date text-md-right">
                   <span className="text-primary">{data.fromDate} - {data.toDate}</span>

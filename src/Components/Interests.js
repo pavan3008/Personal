@@ -1,4 +1,6 @@
 import React, { Component } from 'react';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCode } from "@fortawesome/free-solid-svg-icons";
 
 class Interests extends Component {
   constructor(props) {
@@ -12,12 +14,16 @@ class Interests extends Component {
       <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="interests">
         <div className="w-100">
           <h2 className="mb-5">Interests</h2>
-          <p className="mb-0">{this.interests.paragraphOne}</p>
-          <p className="mb-0">{this.interests.paragraphTwo}</p>
-          <p className="mb-0">{this.interests.paragraphThree}</p>
-          <p className="mb-0">{this.interests.paragraphThree}</p>
-          <p className="mb-0">{this.interests.paragraphFour}</p>
-          <p className="mb-0">{this.interests.paragraphFive}</p>
+          <ul className="fa-ul mb-2">
+          {
+            this.interests.map((data, index) => (
+              <li key={index}>
+                <FontAwesomeIcon icon={faCode} color="#ffc107" />
+                <span className="ml-2"> {data.paragraph} </span>
+              </li>
+            ))
+          }
+          </ul>
         </div>
       </section>
     );
