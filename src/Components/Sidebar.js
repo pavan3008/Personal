@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import image from '../Assets/profile.jpg';
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faGithub, faLinkedin } from "@fortawesome/free-brands-svg-icons";
+
 class Sidebar extends Component {
     constructor(props) {
         super(props);
@@ -46,6 +49,17 @@ class Sidebar extends Component {
                         </li>
                     </ul>
                 </div>
+
+                <div className="social-icons">
+                        <a href={this.sidebarData.linkedin}>
+                        <FontAwesomeIcon icon={faLinkedin} />
+                        </a>
+                        <a href={this.sidebarData.github} >
+                        <FontAwesomeIcon icon={faGithub} />
+                        </a>
+                </div>
+                <br></br><br></br><br>
+                </br>
             </nav>
         );
     }
