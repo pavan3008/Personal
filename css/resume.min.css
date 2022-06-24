@@ -2,7 +2,7 @@
  * Start Bootstrap - Resume v5.0.7 (https://startbootstrap.com/template-overviews/resume)
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
- */body{font-family:Muli,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';padding-top:54px;color:#868e96}
+ */body{font-family:Muli,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';padding-top:54px;color:#17457a}
  
  @media (min-width:992px){body{padding-top:0;padding-left:17rem}}
  
@@ -17,9 +17,10 @@
     white-space: pre-wrap;
   }
  .social-icons a:last-child{margin-right:0}
- .social-icons a:hover{background-color:#d74009f0}
+ 
+ 
  .dev-icons{font-size:3rem}
- .dev-icons .list-inline-item i:hover{color:#d74009f0}
+ .dev-icons .list-inline-item i:hover{color:#275aa2f0}
  #sideNav .navbar-nav .nav-item .nav-link{font-weight:800;letter-spacing:.05rem;text-transform:uppercase}
  #sideNav .navbar-toggler:focus{outline-color:#d74009f0}
  
@@ -32,6 +33,90 @@
  #sideNav .navbar-collapse .navbar-nav .nav-item .nav-link{display:block}}
  section.resume-section{padding-top:5rem!important;padding-bottom:5rem!important;max-width:75rem}
  section.resume-section .resume-item .resume-date{min-width:none}
+
+ #sideNav{
+  height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: 'Helvetica', sans-serif;
+	background: rgb(26, 188, 156);
+	background: -moz-linear-gradient(-45deg, rgba(26, 188, 156, 1) 0%, rgba(142, 68, 173, 1) 100%);
+	background: -webkit-linear-gradient(-45deg, rgba(26, 188, 156, 1) 0%, rgba(142, 68, 173, 1) 100%);
+	background: linear-gradient(135deg, rgba(26, 188, 156, 1) 0%, rgba(142, 68, 173, 1) 100%);
+ }
+ @keyframes float {
+	0% {
+		box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
+		transform: translatey(0px);
+	}
+	50% {
+		box-shadow: 0 25px 15px 0px rgba(0,0,0,0.2);
+		transform: translatey(-20px);
+	}
+	100% {
+		box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
+		transform: translatey(0px);
+	}
+}
+
+.resume-section{
+  height: 100%;
+	margin: 0;
+	padding: 0;
+	font-family: 'Helvetica', sans-serif;
+	background: rgb(26, 188, 156);
+	background: -moz-linear-gradient(-45deg, rgb(213, 224, 221) 0%, rgb(210, 189, 219) 100%);
+	background: -webkit-linear-gradient(-45deg, rgb(214, 225, 223) 0%, rgb(230, 209, 240) 100%);
+	background: linear-gradient(135deg, rgb(214, 228, 225) 0%, rgb(219, 195, 230) 100%);
+}
+ .img-profile {
+  width: 150px;
+  height: 150px;
+  box-sizing: border-box;
+  border: 5px white solid;
+  border-radius: 50%;
+  overflow: hidden;
+  box-shadow: 0 5px 15px 0px rgba(0,0,0,0.6);
+  transform: translatey(0px);
+  animation: float 6s ease-in-out infinite;
+}
+
+@keyframes nameFloat {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-20px);
+	}
+	100% {
+		transform: translatey(0px);
+	}
+}
+.names{
+  animation: nameFloat 6s ease-in-out infinite;
+}
+
+@keyframes iconFloat {
+	0% {
+		transform: translatey(0px);
+	}
+	50% {
+		transform: translatey(-10px);
+	}
+}
+@keyframes glow {
+  from {
+    text-shadow: 0 0 20px #248691;
+  }
+  to {
+    text-shadow: 0 0 30px #31aebc, 0 0 10px #4dbbc7;
+  }
+}
+.navbar-collapse{
+  animation: glow 2s ease-in-out infinite alternate;
+}
+.social-icons a:hover{background-color:rgba(11, 99, 207, 0.789); animation: iconFloat 6s ease-in-out infinite;}
+
  @media (min-width:768px)
  {section.resume-section{min-height:100vh}s
  ection.resume-section .resume-item .resume-date{min-width:18rem}}
