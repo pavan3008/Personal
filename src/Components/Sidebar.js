@@ -47,17 +47,21 @@ class Sidebar extends Component {
                         <li className="nav-item">
                             <a className="nav-link js-scroll-trigger" href="#awards">Certifications</a>
                         </li>
+                        <br></br>
+                        <li>
+                        <div className="social-icons">
+                                <a href={this.sidebarData.linkedin}>
+                                <FontAwesomeIcon icon={faLinkedin} />
+                                </a>
+                                <a href={this.sidebarData.github} >
+                                <FontAwesomeIcon icon={faGithub} />
+                                </a>
+                        </div>
+                        </li>
                     </ul>
                 </div>
 
-                <div className="social-icons">
-                        <a href={this.sidebarData.linkedin}>
-                        <FontAwesomeIcon icon={faLinkedin} />
-                        </a>
-                        <a href={this.sidebarData.github} >
-                        <FontAwesomeIcon icon={faGithub} />
-                        </a>
-                </div>
+                
                 <br></br><br></br><br>
                 </br>
             </nav>
