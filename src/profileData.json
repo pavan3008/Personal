@@ -138,19 +138,11 @@
 
     "interests": [
         {
-            "paragraph": "Software Engineering"
-        },
-        {
-            "paragraph": "Human Computer Interaction"
-        },
-        {
-            "paragraph": "Artificial Intelligence"
-        },
-        {
-            "paragraph": "Security/Privacy"
-        },
-        {
-            "paragraph": "Data Analytics"
+            "paragraph": "EECS Graduate Student Association - Event Coordinator",
+            "org": "Oregon State University",
+            "from": "September 2021",
+            "to": "Present",
+            "duty":"o Maintained consistent communication with the professors and demonstrated responsibility in conducting technical and non-technical events successfully."
         }
     ],
     "awards": [
