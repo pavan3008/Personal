@@ -7,22 +7,22 @@
         "email": "pavansai3008@gmail.com",
         "linkedin": "http://linkedin.com/in/pavan-n",
         "github": "https://github.com/pavan3008",
-        "resume": "https://pavan3008.github.io/resume/"
+        "resume": ""
     },
     "experience": [
         {
-            "position": "Graduate Teaching Assistant",
+            "position": "Graduate Assistant",
             "organization": "Oregon State University",
-            "aboutWork": "CS 464 Open-Source Software Development \n o Mentored students by providing a theoretical foundation of history, key concepts, technologies, and practices associated with modern Free and Open-Source Software (FOSS) projects like GenderMag, freeCodeCamp, Sportsipy, react-native. \n o Assessed coursework, assignments, and held dozubt clarification sessions for students. \n \nCS 290 Web Development. \n o Guided students in developing modern web applications using technologies such as Java Script, React, NodeJS, ExpressJS and MongoDB, and evaluating architectural strategies with particular emphasis on Scalability, Usability, and Security.",
-            "fromDate": "September 2021",
+            "aboutWork": "• Developed a Full Stack exercise tracker application with React for the front-end UI and Node/Express for the back-end REST API, utilizing AWS DynamoDB for data storage. \n• Minimized manual reporting effort by ~12 hours/week and enabled direct access to critical athletics data that helped in boosting their performance by 10%. \n• Evaluated architectural strategies of the application with particular emphasis on Scalability, Usability, and Security.\n• Designed visual UI elements that provided real-time feedback for the users with an SUS Usability score of 81.30. \n• Instructed Software Engineering course that emphasizes on a real-world software development in Agile Scrum to design and evaluate the software systems effectively in a team environment.",
+             "fromDate": "September 2021",
             "toDate": "Present"
         },
         {
-            "position": "Artificial Intelligence Intern",
+            "position": "Software Engineer Intern",
             "organization": "XVigil, CloudSEK ",
-            "aboutWork": " o Identified malicious threats & resolved Security Issues of given problem statement using behavioral patterns through AI.\n o Accomplished requirements to be recognized as XVigil Professional, a SaaS based digital risk monitoring platform.",
+            "aboutWork": "• Developed modern web application using technologies such as Java Script, React, NodeJS, ExpressJS & AWS DynamoDB. \n• Reprogrammed and refactored the company's sales system from jQuery to Vue.js with Scrum development. Resulted in lower maintenance costs of 80% and faster program loading speed of 50%.\n• Assisted developers in managing over 50 servers and reduced crashes from clients. Resulted in a 30% decrease in customer complaint rate. \n• Optimized management of company's AWS cloud service and utilized AWS RDS service to improve international data retrieval speed by 10%. \n• Accomplished requirements to be recognized as XVigil Professional, a SaaS based digital risk monitoring platform.",
             "fromDate": "June 2020",
-            "toDate": "August 2020"
+            "toDate": "September 2020"
         }
 
         
@@ -34,10 +34,10 @@
             "gpa": "CGPA : 3.96",
             "fromDate": "September 2021",
             "toDate": "Present",
-            "coursework": "Coursework: Software Engineering Methods, Human-Computer Interaction, DBMS, Computer Graphics"
+            "coursework": "Coursework: Software Engineering, Human-Computer Interaction, Methods of Data Analysis, Database Management Systems."
         },
         {
-            "university": "CVR College of Engineering, Hyderbad",
+            "university": "Jawaharlal Nehru Technological University",
             "degree": "Bachelor of Technology",
             "gpa": "CGPA : 3.9",
             "fromDate": "August 2017",
@@ -62,24 +62,24 @@
 
     "projects": [
         {
-            "name": "LEA & Judiciary Interactive Case Management System",
-            "details": "o Designed an interactive web application to allow authorized users to log in, file cases, and host meetings efficiently using ExpressJS and MongoDB.\no Developed a video conferencing platform for enlisted applicants with WebRTC.",
+            "name": "An iOS Native Mobile Application, SwiftUI - Itinerary Guide",
+            "details": "• Developed a comprehensive travel planning iOS application using Swift, AWS Lambda, API Gateway, and DynamoDB in a serverless architecture, resulting in a highly scalable and cost-effective solution. \n• Created an intuitive and user-friendly interface with Apple's SwiftUI following the MVVM architecture pattern, resulting in a seamless and efficient user experience. \n• Successfully integrated OAuth 2.0 and RESTful APIs to facilitate user account management, itinerary planning, and budget tracking, resulting in a more personalized and efficient travel planning process. \n• Collaborated with cross-functional teams in Software Innovation Lab, including UX designers and QA engineers, to ensure high- quality product delivery, timely bug fixes, and continuous improvement.",
+            "links": "https://github.com/pavan3008/Smiles"
+        },
+        {
+            "name": "Full Stack Application - LEA & Judiciary Interactive Case Management System",
+            "details": "• Designed an interactive web application to allow authorized users to log in, file cases, host meetings efficiently using React, Express.js & AWS DynamoDB. \n• Conceptualized, designed, and developed a video conferencing platform using WebRTC and OpenTok API, which improved content accuracy by 30% and reduced manual errors.\n• Utilized agile methodologies to deliver incremental improvements, leading to a 25% increase in overall productivity.",
             "links": "https://github.com/pavan3008/LEA"
         },
         {
             "name": "Between Subject Lab Study - Figma Vs Framer",
-            "details": "o Conducted a lab study on 30 users and compared effectiveness, efficiency, and usability of designing prototypes.\no Achieved significant results by performing statistical analysis on acquired data from participants.",
+            "details": "• Conducted a lab study on 30 users and compared effectiveness, efficiency, and usability of designing prototypes.\no Achieved significant results by performing statistical analysis on acquired data from participants.",
             "links": "https://pavan3008.github.io/FigmaVsFramer/" 
         },
         {
             "name": "Offline Hand-Written Text Image Recognition using Deep Learning",
-            "details": "o Implemented CNN Algorithm to classify and recognize hand-written text images.\no Built User Interface using Flask to allow users to upload hand-written text images.",
+            "details": "• Implemented CNN Algorithm to classify and recognize hand-written text images.\no Built User Interface using Flask to allow users to upload hand-written text images.\n • Built a User Interface using Flask to allow users to upload hand-written text images and attained utmost efficiency.",
             "links": ""
-        },
-        {
-            "name": "React-Native Multiplatform Application",
-            "details": "o Curated geographical and travel information using React-Native and published into Expo CLI.",
-            "links": "https://github.com/pavan3008/Smile"
         }
     ],
         
@@ -136,13 +136,53 @@
         }
     ],
 
+    "frame":[
+        {
+           
+        },
+        {
+            
+        },
+        {
+            
+        },
+        {
+            
+        },
+        {
+            
+        },
+        {
+            
+        },
+        {
+            
+        },
+        {
+           
+        },
+        {
+            
+        },
+        {
+           
+        }
+    ],
     "interests": [
         {
-            "paragraph": "EECS Graduate Student Association - Event Coordinator",
-            "org": "Oregon State University",
-            "from": "September 2021",
-            "to": "Present",
-            "duty":"o Maintained consistent communication with the professors and demonstrated responsibility in conducting technical and non-technical events successfully."
+            "paragraph": "Software Engineering"
+        },
+        {
+            "paragraph": "Human Computer Interaction"
+        },
+        {
+            "paragraph": "Artificial Intelligence"
+        },
+        {
+            "paragraph": "Security/Privacy"
+        },
+        {
+            "paragraph": "Data Analytics"
         }
     ],
     "awards": [
