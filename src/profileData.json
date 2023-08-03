@@ -3,8 +3,8 @@
         "firstName": "Pavan Sai",
         "lastName": "Nallagoni",
         "phoneNumber": "",
-        "bio": "About me: \n🎓 I’m a Master of Science in Computer Science Student and a Graduate Teaching assistant at Oregon State University.\n🌱 I’m currently working on Software Engineering and Human-Computer Interaction projects, and I’m also open to collaborate on other projects related to Data/Visual Analytics and Multi-platform/Native applications. ",
-        "email": "pavansai3008@gmail.com",
+        "bio": "About me: \n🎓 I'm a Master of Science in Computer Science Student and a Graduate Teaching assistant at Oregon State University.\n🌱 I’m currently working on Software Engineering and Human-Computer Interaction projects, and I’m also open to collaborate on other projects related to Data/Visual Analytics and Multi-platform/Native applications. ",
+        "email": "nallagonipavan@gmail.com",
         "linkedin": "http://linkedin.com/in/pavan-n",
         "github": "https://github.com/pavan3008",
         "resume": ""
@@ -19,12 +19,18 @@
         },
         {
             "position": "Software Engineer Intern",
-            "organization": "XVigil, CloudSEK ",
-            "aboutWork": "• Developed modern web application using technologies such as Java Script, React, NodeJS, ExpressJS & AWS DynamoDB. \n• Reprogrammed and refactored the company's sales system from jQuery to Vue.js with Scrum development. Resulted in lower maintenance costs of 80% and faster program loading speed of 50%.\n• Assisted developers in managing over 50 servers and reduced crashes from clients. Resulted in a 30% decrease in customer complaint rate. \n• Optimized management of company's AWS cloud service and utilized AWS RDS service to improve international data retrieval speed by 10%. \n• Accomplished requirements to be recognized as XVigil Professional, a SaaS based digital risk monitoring platform.",
+            "organization": "Landmark Group",
+            "aboutWork": "• Developed company's web application using JavaScript, React, NodeJS & MongoDB, serving over 1000 active users daily. \n• Refactored sales system from jQuery to Vue.js, reducing maintenance costs by 80% and boosting loading speed by 50%. \n• Collaborated with developers in managing 50+ servers, leading to a 30% decrease in customer complaints. \n• Optimized company's AWS cloud and utilized AWS RDS to boost international data retrieval speed by 10%.",
+            "fromDate": "September 2020",
+            "toDate": "July 2021"
+        },
+        {
+            "position": "Graduate Assistant",
+            "organization": "XVigil, CloudSEK",
+            "aboutWork": "• Identified malicious threats & resolved 80% of security issues using behavioral patterns through AI/ML algorithms. \n• Accomplished requirements to be recognized as XVigil Professional, a SaaS based digital risk monitoring platform. ",
             "fromDate": "June 2020",
             "toDate": "September 2020"
         }
-
         
     ],
     "education": [
@@ -46,14 +52,14 @@
         },
         {
             "university": "Sri Gayatri Junior College",
-            "degree": "XII",
+            "degree": "Class 11, 12",
             "gpa": "Percentage : 98.5%",
             "fromDate": "June 2015",
             "toDate": "April 2017"
         },
         {
             "university": "Bhashyam High School",
-            "degree": "X",
+            "degree": "High School",
             "gpa": "CGPA : 10",
             "fromDate": "June 2014",
             "toDate": "May 2015"
@@ -63,12 +69,12 @@
     "projects": [
         {
             "name": "An iOS Native Mobile Application, SwiftUI - Itinerary Guide",
-            "details": "• Developed a comprehensive travel planning iOS application using Swift, AWS Lambda, API Gateway, and DynamoDB in a serverless architecture, resulting in a highly scalable and cost-effective solution. \n• Created an intuitive and user-friendly interface with Apple's SwiftUI following the MVVM architecture pattern, resulting in a seamless and efficient user experience. \n• Successfully integrated OAuth 2.0 and RESTful APIs to facilitate user account management, itinerary planning, and budget tracking, resulting in a more personalized and efficient travel planning process. \n• Collaborated with cross-functional teams in Software Innovation Lab, including UX designers and QA engineers, to ensure high- quality product delivery, timely bug fixes, and continuous improvement.",
+            "details": "• Pioneered a travel planning iOS application using Swift, AWS Lambda, API Gateway, and DynamoDB in a serverless architecture, resulting in a scalable and cost-effective solution.\n• Designed an intuitive user interface using SwiftUI's MVVM architecture pattern, ensuring a seamless and efficient user experience.\n• Integrated OAuth 2.0 and RESTful APIs to enable user account management, itinerary planning, and budget tracking, enhancing the travel planning process.",
             "links": "https://github.com/pavan3008/Smiles"
         },
         {
-            "name": "Full Stack Application - LEA & Judiciary Interactive Case Management System",
-            "details": "• Designed an interactive web application to allow authorized users to log in, file cases, host meetings efficiently using React, Express.js & AWS DynamoDB. \n• Conceptualized, designed, and developed a video conferencing platform using WebRTC and OpenTok API, which improved content accuracy by 30% and reduced manual errors.\n• Utilized agile methodologies to deliver incremental improvements, leading to a 25% increase in overall productivity.",
+            "name": "MERN Stack Application - LEA & Judiciary Interactive Case Management System",
+            "details": "• Created an interactive MERN stack web application for authorized users to log in, file cases, and host meetings efficiently, leveraging React, Express.js & MongoDB.\n• Implemented a video conferencing platform using WebRTC and improved content accuracy by 30% and minimized manual errors.\n• Utilized agile methodologies to deliver incremental improvements, leading to a 25% increase in overall productivity.",
             "links": "https://github.com/pavan3008/LEA"
         },
         {
@@ -78,7 +84,7 @@
         },
         {
             "name": "Offline Hand-Written Text Image Recognition using Deep Learning",
-            "details": "• Implemented CNN Algorithm to classify and recognize hand-written text images.\no Built User Interface using Flask to allow users to upload hand-written text images.\n • Built a User Interface using Flask to allow users to upload hand-written text images and attained utmost efficiency.",
+            "details": "• Implemented CNN Algorithm to classify and recognize hand-written text images.\n• Built User Interface using Flask to allow users to upload hand-written text images.\n • Built a User Interface using Flask to allow users to upload hand-written text images and attained utmost efficiency.",
             "links": ""
         }
     ],
@@ -121,7 +127,7 @@
         },
         {
             "name": "C#",
-            "tools": "Framer",
+            "tools": "Django",
             "frameworks": "OpenCV"
         },
         {
@@ -173,13 +179,13 @@
             "paragraph": "Software Engineering"
         },
         {
+            "paragraph": "Full Stack Development"
+        },
+        {
             "paragraph": "Human Computer Interaction"
         },
         {
             "paragraph": "Artificial Intelligence"
-        },
-        {
-            "paragraph": "Security/Privacy"
         },
         {
             "paragraph": "Data Analytics"
