@@ -1,224 +1,198 @@
 {
     "landing": {
-        "firstName": "Pavan",
+        "firstName": "",
         "lastName": "",
         "phoneNumber": "",
-        "bio": "About me: \n🎓 I'm a Master of Science in Computer Science Student and a Graduate Teaching assistant at Oregon State University.\n🌱 I’m currently working on Software Engineering and Human-Computer Interaction projects, and I’m also open to collaborate on other projects related to Data/Visual Analytics and Multi-platform/Native applications. ",
+        "bio": "",
         "email": "",
-        "linkedin": "http://linkedin.com/in/pavan-n",
-        "github": "https://github.com/pavan3008",
+        "linkedin": "",
+        "github": "",
         "resume": ""
     },
     "experience": [
         {
-            "position": "Graduate Assistant",
-            "organization": "Oregon State University",
-            "aboutWork": "• Developed a Full Stack exercise tracker application with React for the front-end UI and Node/Express for the back-end REST API, utilizing AWS DynamoDB for data storage. \n• Minimized manual reporting effort by ~12 hours/week and enabled direct access to critical athletics data that helped in boosting their performance by 10%. \n• Evaluated architectural strategies of the application with particular emphasis on Scalability, Usability, and Security.\n• Designed visual UI elements that provided real-time feedback for the users with an SUS Usability score of 81.30. \n• Instructed Software Engineering course that emphasizes on a real-world software development in Agile Scrum to design and evaluate the software systems effectively in a team environment.",
-             "fromDate": "September 2021",
-            "toDate": "Present"
+            "position": "",
+            "organization": "",
+            "aboutWork": "",
+            "fromDate": "",
+            "toDate": ""
         },
         {
-            "position": "Software Engineer Intern",
-            "organization": "Landmark Group",
-            "aboutWork": "• Developed company's web application using JavaScript, React, NodeJS & MongoDB, serving over 1000 active users daily. \n• Refactored sales system from jQuery to Vue.js, reducing maintenance costs by 80% and boosting loading speed by 50%. \n• Collaborated with developers in managing 50+ servers, leading to a 30% decrease in customer complaints. \n• Optimized company's AWS cloud and utilized AWS RDS to boost international data retrieval speed by 10%.",
-            "fromDate": "September 2020",
-            "toDate": "July 2021"
+            "position": "",
+            "organization": "",
+            "aboutWork": "",
+            "fromDate": "",
+            "toDate": ""
         },
         {
-            "position": "Graduate Assistant",
-            "organization": "XVigil, CloudSEK",
-            "aboutWork": "• Identified malicious threats & resolved 80% of security issues using behavioral patterns through AI/ML algorithms. \n• Accomplished requirements to be recognized as XVigil Professional, a SaaS based digital risk monitoring platform. ",
-            "fromDate": "June 2020",
-            "toDate": "September 2020"
+            "position": "",
+            "organization": "",
+            "aboutWork": "",
+            "fromDate": "",
+            "toDate": ""
         }
-        
     ],
     "education": [
         {
-            "university": "Oregon State University",
-            "degree": "Master of Science in Computer Science",
-            "gpa": "CGPA : 3.96",
-            "fromDate": "September 2021",
-            "toDate": "Present",
-            "coursework": "Coursework: Software Engineering, Human-Computer Interaction, Methods of Data Analysis, Database Management Systems."
+            "university": "",
+            "degree": "",
+            "gpa": "",
+            "fromDate": "",
+            "toDate": "",
+            "coursework": ""
         },
         {
-            "university": "Jawaharlal Nehru Technological University",
-            "degree": "Bachelor of Technology",
-            "gpa": "CGPA : 3.9",
-            "fromDate": "August 2017",
-            "toDate": "July 2021",
-            "coursework": "Coursework: Software Engineering, Design and Analysis of Algorithms, Machine Learning, Big Data."
+            "university": "",
+            "degree": "",
+            "gpa": "",
+            "fromDate": "",
+            "toDate": "",
+            "coursework": ""
         },
         {
-            "university": "Sri Gayatri Junior College",
-            "degree": "Class 11, 12",
-            "gpa": "Percentage : 98.5%",
-            "fromDate": "June 2015",
-            "toDate": "April 2017"
+            "university": "",
+            "degree": "",
+            "gpa": "",
+            "fromDate": "",
+            "toDate": ""
         },
         {
-            "university": "Bhashyam High School",
-            "degree": "High School",
-            "gpa": "CGPA : 10",
-            "fromDate": "June 2014",
-            "toDate": "May 2015"
+            "university": "",
+            "degree": "",
+            "gpa": "",
+            "fromDate": "",
+            "toDate": ""
         }
     ],
-
     "projects": [
         {
-            "name": "An iOS Native Mobile Application, SwiftUI - Itinerary Guide",
-            "details": "• Pioneered a travel planning iOS application using Swift, AWS Lambda, API Gateway, and DynamoDB in a serverless architecture, resulting in a scalable and cost-effective solution.\n• Designed an intuitive user interface using SwiftUI's MVVM architecture pattern, ensuring a seamless and efficient user experience.\n• Integrated OAuth 2.0 and RESTful APIs to enable user account management, itinerary planning, and budget tracking, enhancing the travel planning process.",
-            "links": "https://github.com/pavan3008/Smiles"
+            "name": "",
+            "details": "",
+            "links": ""
         },
         {
-            "name": "MERN Stack Application - LEA & Judiciary Interactive Case Management System",
-            "details": "• Created an interactive MERN stack web application for authorized users to log in, file cases, and host meetings efficiently, leveraging React, Express.js & MongoDB.\n• Implemented a video conferencing platform using WebRTC and improved content accuracy by 30% and minimized manual errors.\n• Utilized agile methodologies to deliver incremental improvements, leading to a 25% increase in overall productivity.",
-            "links": "https://github.com/pavan3008/LEA"
+            "name": "",
+            "details": "",
+            "links": ""
         },
         {
-            "name": "Between Subject Lab Study - Figma Vs Framer",
-            "details": "• Conducted a lab study on 30 users and compared effectiveness, efficiency, and usability of designing prototypes.\no Achieved significant results by performing statistical analysis on acquired data from participants.",
-            "links": "https://pavan3008.github.io/FigmaVsFramer/" 
+            "name": "",
+            "details": "",
+            "links": ""
         },
         {
-            "name": "Offline Hand-Written Text Image Recognition using Deep Learning",
-            "details": "• Implemented CNN Algorithm to classify and recognize hand-written text images.\n• Built User Interface using Flask to allow users to upload hand-written text images.\n • Built a User Interface using Flask to allow users to upload hand-written text images and attained utmost efficiency.",
+            "name": "",
+            "details": "",
             "links": ""
         }
     ],
-        
     "skills": [
         {
-            "name": "Python",
-            "tools": "Git",
-            "frameworks": "React"
+            "name": "",
+            "tools": "",
+            "frameworks": ""
         },
         {
-            "name": "Java",
-            "tools": "AWS",
-            "frameworks": "NodeJS"
+            "name": "",
+            "tools": "",
+            "frameworks": ""
         },
         {
-            "name": "JavaScript",
-            "tools": "MySQL",
-            "frameworks": "VueJS"
+            "name": "",
+            "tools": "",
+            "frameworks": ""
         },
         {
-            "name": "C/C++",
-            "tools": "Docker",
-            "frameworks": "SwiftUI"
+            "name": "",
+            "tools": "",
+            "frameworks": ""
         },
         {
-            "name": "HTML5",
-            "tools": "Swagger",
-            "frameworks": "OpenGL"
+            "name": "",
+            "tools": "",
+            "frameworks": ""
         },
         {
-            "name": "CSS3",
-            "tools": "Jira",
-            "frameworks": "GLSL"
+            "name": "",
+            "tools": "",
+            "frameworks": ""
         },
         {
-            "name": "Swift",
-            "tools": "Figma",
-            "frameworks": "TensorFlow"
+            "name": "",
+            "tools": "",
+            "frameworks": ""
         },
         {
-            "name": "C#",
-            "tools": "Django",
-            "frameworks": "OpenCV"
+            "name": "",
+            "tools": "",
+            "frameworks": ""
         },
         {
-            "name": "PHP",
-            "tools": "Visual Studio",
-            "frameworks": "Hadoop"
+            "name": "",
+            "tools": "",
+            "frameworks": ""
         },
         {
-            "name": "R",
-            "tools": "XCode",
-            "frameworks": "NumPy"
+            "name": "",
+            "tools": "",
+            "frameworks": ""
         }
     ],
-
-    "frame":[
-        {
-           
-        },
-        {
-            
-        },
-        {
-            
-        },
-        {
-            
-        },
-        {
-            
-        },
-        {
-            
-        },
-        {
-            
-        },
-        {
-           
-        },
-        {
-            
-        },
-        {
-           
-        }
+    "frame": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {}
     ],
     "interests": [
         {
-            "paragraph": "Software Engineering"
+            "paragraph": ""
         },
         {
-            "paragraph": "Full Stack Development"
+            "paragraph": ""
         },
         {
-            "paragraph": "Human Computer Interaction"
+            "paragraph": ""
         },
         {
-            "paragraph": "Artificial Intelligence"
+            "paragraph": ""
         },
         {
-            "paragraph": "Data Analytics"
+            "paragraph": ""
         }
     ],
     "awards": [
-        
         {
-            "awardDetail": "Microsft Virtual Internship",
-            "awardLink": "https://insidesherpa.s3.amazonaws.com/completion-certificates/Microsoft/ms2CK9b2SCWGXwPMS_Microsoft_BjGFvLPybqKkSD4CN_completion_certificate.pdf"
+            "awardDetail": "",
+            "awardLink": ""
         },
         {
-            "awardDetail": "Front End UI WebFramework (with Honors)",
-            "awardLink":"https://www.coursera.org/account/accomplishments/certificate/BYNV6SGTVQG7"
+            "awardDetail": "",
+            "awardLink": ""
         },
         {
-            "awardDetail":"Group 1.Social / Behavioral Research Investigators and Key Personnel",
-            "awardLink":"https://www.citiprogram.org/verify/?w32c45283-61ab-4528-93f7-2ac93ef76862-45391655"
+            "awardDetail": "",
+            "awardLink": ""
         },
         {
-            "awardDetail":"Python Data Structures",
-            "awardLink": "https://www.coursera.org/account/accomplishments/certificate/L4NBGAQZFYCP"
+            "awardDetail": "",
+            "awardLink": ""
         },
         {
-            "awardDetail":"Cloud Computing Basics (Cloud 101)",
-            "awardLink":"https://www.coursera.org/account/accomplishments/verify/44F2L8DBMPTB?utm_source=link&utm_campaign=copybutton_certificate"
+            "awardDetail": "",
+            "awardLink": ""
         },
         {
-            "awardDetail": "National Merit Scholarship"
+            "awardDetail": ""
         },
-        
         {
-            "awardDetail": "Taek Wando Interschool championship"
+            "awardDetail": ""
         }
     ]
 }
